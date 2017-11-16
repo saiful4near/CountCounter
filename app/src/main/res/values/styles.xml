@@ -4,7 +4,7 @@
     <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
         <!-- Primary theme color of the app (sets background color of app bar) -->
         <item name="colorPrimary">#039be5</item>
-        <item name="colorPrimaryDark">#0288d1</item>
+        <item name="colorPrimaryDark">@android:color/black</item>
         <!-- Background color of buttons in the app -->
         <item name="colorButtonNormal">@color/colorAccent</item>
     </style>

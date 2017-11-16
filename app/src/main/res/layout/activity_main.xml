@@ -20,7 +20,8 @@
         android:layout_centerHorizontal="true"
         android:textSize="32sp"
         android:textColor="@android:color/white"
-        android:layout_marginTop="24dp"/>
+        android:layout_marginTop="24dp"
+        android:fontFamily="sans-serif-large"/>
     <LinearLayout
         android:id="@+id/nested_view_group"
         android:layout_width="match_parent"
